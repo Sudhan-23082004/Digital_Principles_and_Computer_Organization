@@ -1,2 +1,0 @@
-# Digital_Principles_and_Computer_Organization
-Logisim Circuit Files
